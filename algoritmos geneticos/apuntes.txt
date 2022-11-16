@@ -1,0 +1,3 @@
+Un algoritmo no sabe lo que lower significa, no tiene inteligencia, no aprende, tendra los mmismos errores todo el tiempo, será tan bueno solucionando un problema como la persona que escriba el codigo.
+Los algoritmos genéticos usan la exploración aleatoria del espacio del problema combinado con un proceso de evolución como la mutacion y crossover (intercambio de informacion genetica) para mejorar. pero precisamente por que el algoritmo no tiene experiencia, puede probar soluciones que a un ser humano no se le ocurriría. Lo que genera un círculo virtuoso humano máquina (aprender mas sobre el espacio de soluciones-mejora del algoritmo)
+
