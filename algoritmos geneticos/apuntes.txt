@@ -1,3 +1,9 @@
 Un algoritmo no sabe lo que lower significa, no tiene inteligencia, no aprende, tendra los mmismos errores todo el tiempo, será tan bueno solucionando un problema como la persona que escriba el codigo.
 Los algoritmos genéticos usan la exploración aleatoria del espacio del problema combinado con un proceso de evolución como la mutacion y crossover (intercambio de informacion genetica) para mejorar. pero precisamente por que el algoritmo no tiene experiencia, puede probar soluciones que a un ser humano no se le ocurriría. Lo que genera un círculo virtuoso humano máquina (aprender mas sobre el espacio de soluciones-mejora del algoritmo)
 
+Es comun que el program se estanque, generalmente debido sabes algo que tu programa no, get_best solo se queda con una mejor solucion
+una solucion a adoptar es añadir una mejora parcial o parcial credit
+
+genotipo → como codificamos las partes del problema: 64 bits, 48 bits, 8 enteros 0-63, 16 enteros 1-8
+
+phenotipo → como decodificamos los genes para reolver el problema
